@@ -25,6 +25,8 @@ const Greeting: React.FC<GreetingPropsType> = (
         lastUserName,
     } // деструктуризация пропсов
 ) => {
+
+    debugger
     const inputClass = error ? s.errorInput : s.input // need to fix with (?:)
 
     return (
