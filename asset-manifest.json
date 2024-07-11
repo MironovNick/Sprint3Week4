@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sprint3Week4/static/css/main.c7cf22cb.css",
-    "main.js": "/Sprint3Week4/static/js/main.fedc64fe.js",
+    "main.js": "/Sprint3Week4/static/js/main.3c7e6bdf.js",
     "static/js/787.66cb4309.chunk.js": "/Sprint3Week4/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Sprint3Week4/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/Sprint3Week4/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -12,11 +12,11 @@
     "index.html": "/Sprint3Week4/index.html",
     "static/media/burger.svg": "/Sprint3Week4/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.c7cf22cb.css.map": "/Sprint3Week4/static/css/main.c7cf22cb.css.map",
-    "main.fedc64fe.js.map": "/Sprint3Week4/static/js/main.fedc64fe.js.map",
+    "main.3c7e6bdf.js.map": "/Sprint3Week4/static/js/main.3c7e6bdf.js.map",
     "787.66cb4309.chunk.js.map": "/Sprint3Week4/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7cf22cb.css",
-    "static/js/main.fedc64fe.js"
+    "static/js/main.3c7e6bdf.js"
   ]
 }
